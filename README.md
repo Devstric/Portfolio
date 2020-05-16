@@ -20,11 +20,11 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 [Educate Me](https://play.google.com/store/apps/details?id=com.hyperdev.educate_me) is an iOS & Android app made using **Flutter** and **Dart** that aims to connect  students, teachers, parents and school under the same platform and providing services that facilitate the educational process for each individual participant and to increase the efficiency of the evaluation system as well as administrative services that work to link Schools, educational directorates, and the Ministry under the same platform.
 
 
-| 🔨 Technologies Used|
-| ------------- |
-| Bloc Pattern |
-| Cloud Firestore|
-| Firebase Storage|
+| 🔨 Technologies Used| 🚀 Platform Supported|
+| ------------- | :---: |
+| Bloc Pattern | 📱 iOS     |
+| Cloud Firestore|📱 Android      |
+| Firebase Storage|🌐 Web |
 | Singleton Pattern|
 | Push Notifications|
 | Local Notifications|
@@ -34,11 +34,6 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 | Data Encryption|
 | Charts|
 
-| 🚀 Platform Supported|
-| ------------- |
-| 📱 iOS     |
-| 📱 Android      |
-| 🌐 Web |
 
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.hyperdev.educate_me" target="_blank"><img src="educate_me/em_cover.png" width="900" title="EducateMe"></a>
@@ -49,18 +44,12 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 <br>
 [Nile Gift](https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile&hl=en) is an iOS & Android app made using **Flutter** and **Dart** Nile gift is a vertical timeline that allows you to navigate through ancient Egyptian characters (deity, pharaohs), learn more about them, their stories, images, and videos with fully animated and illustrated characters and also provide the ability to locate characters monuments and order uber to the monument directly.
 
-| 🔨 Technologies Used|
-| ------------- |
-| Bloc Pattern |
-| Animations|
+| 🔨 Technologies Used|🚀 Platform Supported|
+| ------------- |:---: |
+| Bloc Pattern | 📱 iOS     |
+| Animations|📱 Android      |
 | Location Services|
 | Charts|
-
-
-| 🚀 Platform Supported|
-| ------------- |
-| 📱 iOS     |
-| 📱 Android      |
 
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile" target="_blank"><img src="nile_gift/nile_gift_cover.png" width="900" title="NileGift"></a>
