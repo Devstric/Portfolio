@@ -63,5 +63,5 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 | 📱 Android      |
 
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile" target="_blank"><img src="educate_me/nile_gift_cover.png" width="900" title="NileGift"></a>
+<a href="https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile" target="_blank"><img src="nile_gift/nile_gift_cover.png" width="900" title="NileGift"></a>
 </p>
