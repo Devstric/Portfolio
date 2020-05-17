@@ -19,8 +19,9 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.hyperdev.educate_me" target="_blank"><img src="educate_me/em_cover.png" width="900" title="EducateMe"></a>
 </p>
-
+<p align="center">
 <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Flutter & Dart-green.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.hyperdev.educate_me" target="_blank"><img src="https://img.shields.io/badge/Available%20On-Google%20Play-black.svg?style=for-the-badge&logo=google&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+    </p>
 <br>
 [Educate Me](https://play.google.com/store/apps/details?id=com.hyperdev.educate_me) is an iOS & Android app made using **Flutter** and **Dart** that aims to connect  students, teachers, parents and school under the same platform and providing services that facilitate the educational process for each individual participant and to increase the efficiency of the evaluation system as well as administrative services that work to link Schools, educational directorates, and the Ministry under the same platform.
 
@@ -46,9 +47,11 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile" target="_blank"><img src="nile_gift/nile_gift_cover.png" width="900" title="NileGift"></a>
 </p>
-
+<p align="center">
 <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Flutter & Dart-green.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile" target="_blank"><img src="https://img.shields.io/badge/Available%20On-Google%20Play-black.svg?style=for-the-badge&logo=google&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+    </p>
 <br>
+
 [Nile Gift](https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile&hl=en) is an iOS & Android app made using **Flutter** and **Dart** Nile gift is a vertical timeline that allows you to navigate through ancient Egyptian characters (deity, pharaohs), learn more about them, their stories, images, and videos with fully animated and illustrated characters and also provide the ability to locate characters monuments and order uber to the monument directly.
 
 | 🔨 Technologies Used|🚀 Platform Supported|
