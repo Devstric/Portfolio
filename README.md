@@ -62,4 +62,27 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 | Location Services|
 | Charts|
 
+<p align="center">
+Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="NileGift"></a>
+</p>
+
+## Nile Gift 📜
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile" target="_blank"><img src="nile_gift/nile_gift_cover.png" width="900" title="NileGift"></a>
+</p>
+<p align="center">
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Flutter & Dart-green.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile" target="_blank"><img src="https://img.shields.io/badge/Available%20On-Google%20Play-black.svg?style=for-the-badge&logo=google&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+    </p>
+<br>
+
+[Nile Gift](https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile&hl=en) is an iOS & Android app made using **Flutter** and **Dart** Nile gift is a vertical timeline that allows you to navigate through ancient Egyptian characters (deity, pharaohs), learn more about them, their stories, images, and videos with fully animated and illustrated characters and also provide the ability to locate characters monuments and order uber to the monument directly.
+
+| 🔨 Technologies Used|🚀 Platform Supported|
+| ------------- |:---: |
+| Bloc Pattern | 📱 iOS     |
+| Animations|📱 Android      |
+| Location Services|
+| Charts|
+
 
