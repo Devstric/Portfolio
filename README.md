@@ -9,7 +9,8 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 -------
 <p align="center">
     <a href="#educate-me-">Educate Me 📚</a> &bull;
-    <a href="#nile-gift">Nile Gift 📜</a> &bull;
+    <a href="#nile-gift-">Nile Gift 📜</a> &bull;
+    <a href="#coronaapp-">CoronaApp 😷</a>
   
 </p>
 
@@ -26,12 +27,16 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 
 [Educate Me](https://play.google.com/store/apps/details?id=com.hyperdev.educate_me) is an iOS & Android app made using **Flutter** and **Dart** that aims to connect  students, teachers, parents and school under the same platform and providing services that facilitate the educational process for each individual participant and to increase the efficiency of the evaluation system as well as administrative services that work to link Schools, educational directorates, and the Ministry under the same platform.
 
+<h4 align="left"> 🚀 Supported Platforms </h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg" width="80" title="iOS">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="80" title="Android">&nbsp;&nbsp;&nbsp;<img src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" width="80" title="WEB">
+   </p>
 
-| 🔨 Technologies Used| 🚀 Platform Supported|
-| ------------- | :---: |
-| Bloc Pattern | 📱 iOS     |
-| Cloud Firestore|📱 Android      |
-| Firebase Storage|🌐 Web |
+| 🔨 Technologies Used|
+| ------------- |
+| Bloc Pattern |
+| Cloud Firestore|
+| Firebase Storage|
 | Singleton Pattern|
 | Push Notifications|
 | Local Notifications|
@@ -42,6 +47,18 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 | Charts|
 
 
+| 👨‍💻 Development Team| 🔧 Position |
+| :---: |:---: |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
+| [Abanoub Shawky](https://github.com/Abanoub-Showky)| 📱 Flutter Developer |
+| [Mahmoud Sharaf](https://github.com/MahmoudSharaf55)| 🌐 Web Developer |
+| [Mohamed Sedky](https://github.com/mohammmedsedky)| 📱 Flutter Developer |
+| Mostafa Khedr | 🌐 Web Developer |
+
+<p align="center">
+Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
+</p>
+
 
 ## Nile Gift 📜
 
@@ -50,19 +67,70 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 </p>
 <p align="center">
 <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Flutter & Dart-green.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile" target="_blank"><img src="https://img.shields.io/badge/Available%20On-Google%20Play-black.svg?style=for-the-badge&logo=google&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Mohanedy98/Gift-of-The-Nile" target="_blank"><img src="https://img.shields.io/badge/Source code%20On-GitHub-blue.svg?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
     </p>
 <br>
 
 [Nile Gift](https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile&hl=en) is an iOS & Android app made using **Flutter** and **Dart** Nile gift is a vertical timeline that allows you to navigate through ancient Egyptian characters (deity, pharaohs), learn more about them, their stories, images, and videos with fully animated and illustrated characters and also provide the ability to locate characters monuments and order uber to the monument directly.
 
-| 🔨 Technologies Used|🚀 Platform Supported|
-| ------------- |:---: |
-| Bloc Pattern | 📱 iOS     |
-| Animations|📱 Android      |
+<h4 align="left"> 🚀 Supported Platforms </h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg" width="80" title="iOS">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="80" title="Android">
+   </p>
+
+| 🔨 Technologies Used
+| ------------- |
+| Bloc Pattern | 
+| Animations|
 | Location Services|
 | Charts|
 
-<p align="center">
-Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="NileGift"></a>
-</p>
+| 👨‍💻 Development Team| 🔧 Position |
+| :---: |:---: |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
+| [Shimaa Ghanima](https://github.com/ShimaaGhanima)| 📱 Flutter Developer |
+| [Abdullah Rezk](https://github.com/AbdallhaRezk)| 📱 Flutter Developer |
 
+
+## CoronaApp 😷
+
+<p align="center">
+<img src="coronaapp/CoronaAppCover.png" width="900" title="CoronaApp">
+</p>
+<p align="center">
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Flutter & Dart-green.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+    </p>
+<br>
+
+CoronaApp is an iOS & Android app made using **Flutter** and **Dart**. CoronaApp is An application that limits the spread of the Coronavirus by tracing all contacts within 3 meters distance. provides notifications for infected areas also provides news and interactive map for CoronaVirus spread.
+
+<h4 align="left"> 🚀 Supported Platforms </h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg" width="80" title="iOS">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="80" title="Android">
+   </p>
+
+| 🔨 Technologies Used
+| ------------- |
+| Bloc Pattern | 
+| Cloud Firestore|
+| Firebase Storage|
+| Animations|
+| Location Services|
+| Google Maps|
+| Local Notifications|
+| Push Notifications|
+| Multi-Language support |
+| Networking |
+| Nearby Services|
+| Bluetooth|
+| Data Encryption|
+| Charts|
+
+| 👨‍💻 Development Team| 🔧 Position |
+| :---: |:---: |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
+| [Abanoub Shawky](https://github.com/Abanoub-Showky)| 📱 Flutter Developer |
+
+<p align="center">
+Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
+</p>
