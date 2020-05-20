@@ -26,6 +26,9 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 
 [Educate Me](https://play.google.com/store/apps/details?id=com.hyperdev.educate_me) is an iOS & Android app made using **Flutter** and **Dart** that aims to connect  students, teachers, parents and school under the same platform and providing services that facilitate the educational process for each individual participant and to increase the efficiency of the evaluation system as well as administrative services that work to link Schools, educational directorates, and the Ministry under the same platform.
 
+#####🚀 Supported Platform
+
+![iOS](https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg | width=100)
 
 | 🔨 Technologies Used| 🚀 Platform Supported|
 | ------------- | :---: |
