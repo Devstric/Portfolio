@@ -28,7 +28,7 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 
 #####🚀 Supported Platform
 
-![iOS](https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg | width=100)
+![iOS](https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg|width=100)
 
 | 🔨 Technologies Used| 🚀 Platform Supported|
 | ------------- | :---: |
