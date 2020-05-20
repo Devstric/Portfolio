@@ -26,11 +26,10 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 
 [Educate Me](https://play.google.com/store/apps/details?id=com.hyperdev.educate_me) is an iOS & Android app made using **Flutter** and **Dart** that aims to connect  students, teachers, parents and school under the same platform and providing services that facilitate the educational process for each individual participant and to increase the efficiency of the evaluation system as well as administrative services that work to link Schools, educational directorates, and the Ministry under the same platform.
 
-
-####🚀 Supported Platforms
-
-
-![iOS](https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg)
+<h4 align="left"> 🚀 Supported Platforms </h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg" width="80" title="iOS">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="80" title="Android">&nbsp;&nbsp;&nbsp;<img src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" width="80" title="WEB">
+   </p>
 
 | 🔨 Technologies Used|
 | ------------- |
@@ -71,10 +70,15 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 
 [Nile Gift](https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile&hl=en) is an iOS & Android app made using **Flutter** and **Dart** Nile gift is a vertical timeline that allows you to navigate through ancient Egyptian characters (deity, pharaohs), learn more about them, their stories, images, and videos with fully animated and illustrated characters and also provide the ability to locate characters monuments and order uber to the monument directly.
 
-| 🔨 Technologies Used|🚀 Platform Supported|
-| ------------- |:---: |
-| Bloc Pattern | 📱 iOS     |
-| Animations|📱 Android      |
+<h4 align="left"> 🚀 Supported Platforms </h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg" width="80" title="iOS">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="80" title="Android">
+   </p>
+
+| 🔨 Technologies Used
+| ------------- |
+| Bloc Pattern | 
+| Animations|
 | Location Services|
 | Charts|
 
@@ -83,4 +87,3 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 | [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
 | [Shimaa Ghanima](https://github.com/ShimaaGhanima)| 📱 Flutter Developer |
 | [Abdallha Rezk](https://github.com/AbdallhaRezk)| 📱 Flutter Developer |
-
