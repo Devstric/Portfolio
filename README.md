@@ -86,4 +86,4 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 | :---: |:---: |
 | [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
 | [Shimaa Ghanima](https://github.com/ShimaaGhanima)| 📱 Flutter Developer |
-| [Abdallha Rezk](https://github.com/AbdallhaRezk)| 📱 Flutter Developer |
+| [Abdullah Rezk](https://github.com/AbdallhaRezk)| 📱 Flutter Developer |
