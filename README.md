@@ -41,9 +41,6 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 | Data Encryption|
 | Charts|
 
-<p align="center">
-Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
-</p>
 
 | 🔨 Development Team| 🔧 Position |
 | :---: |:---: |
@@ -51,6 +48,11 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 | [Abanoub Shawky](https://github.com/Abanoub-Showky)| 📱 Flutter Developer |
 | [Mahmoud Sharaf](https://github.com/MahmoudSharaf55)| 🌐 Web Developer |
 | [Mohamed Sedky](https://github.com/mohammmedsedky)| 📱 Flutter Developer |
+
+<p align="center">
+Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
+</p>
+
 
 ## Nile Gift 📜
 
