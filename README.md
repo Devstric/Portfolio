@@ -10,7 +10,10 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 <p align="center">
     <a href="#educate-me-">Educate Me 📚</a> &bull;
     <a href="#nile-gift-">Nile Gift 📜</a> &bull;
-    <a href="#coronaapp-">CoronaApp 😷</a>
+    <a href="#coronaapp-">CoronaApp 😷</a> &bull;
+    <a href="#flowerly-">Flowerly 🌸</a> &bull;
+    <a href="#tweetect-">Tweetect 😄😐😡</a>
+    
   
 </p>
 
@@ -47,7 +50,7 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 | Charts|
 
 
-| 👨‍💻 Development Team| 🔧 Position |
+| 👨‍💻 Development Team| 🔧 Role |
 | :---: |:---: |
 | [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
 | [Abanoub Shawky](https://github.com/Abanoub-Showky)| 📱 Flutter Developer |
@@ -66,8 +69,7 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 <a href="https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile" target="_blank"><img src="nile_gift/nile_gift_cover.png" width="900" title="NileGift"></a>
 </p>
 <p align="center">
-<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Flutter & Dart-green.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile" target="_blank"><img src="https://img.shields.io/badge/Available%20On-Google%20Play-black.svg?style=for-the-badge&logo=google&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Mohanedy98/Gift-of-The-Nile" target="_blank"><img src="https://img.shields.io/badge/Source code%20On-GitHub-blue.svg?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Flutter & Dart-green.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.mohanedy98.gift_of_the_nile" target="_blank"><img src="https://img.shields.io/badge/Available%20On-Google%20Play-black.svg?style=for-the-badge&logo=google&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Mohanedy98/Gift-of-The-Nile" target="_blank"><img src="https://img.shields.io/badge/Source code%20On-GitHub-blue.svg?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
     </p>
 <br>
 
@@ -85,7 +87,7 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 | Location Services|
 | Charts|
 
-| 👨‍💻 Development Team| 🔧 Position |
+| 👨‍💻 Development Team| 🔧 Role |
 | :---: |:---: |
 | [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
 | [Shimaa Ghanima](https://github.com/ShimaaGhanima)| 📱 Flutter Developer |
@@ -114,6 +116,7 @@ CoronaApp is an iOS & Android app made using **Flutter** and **Dart**. CoronaApp
 | Bloc Pattern | 
 | Cloud Firestore|
 | Firebase Storage|
+| Background tasks using [Background Fetch Package](https://pub.dev/packages/background_fetch)|
 | Animations|
 | Location Services|
 | Google Maps|
@@ -126,7 +129,7 @@ CoronaApp is an iOS & Android app made using **Flutter** and **Dart**. CoronaApp
 | Data Encryption|
 | Charts|
 
-| 👨‍💻 Development Team| 🔧 Position |
+| 👨‍💻 Development Team| 🔧 Role |
 | :---: |:---: |
 | [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
 | [Abanoub Shawky](https://github.com/Abanoub-Showky)| 📱 Flutter Developer |
@@ -134,3 +137,62 @@ CoronaApp is an iOS & Android app made using **Flutter** and **Dart**. CoronaApp
 <p align="center">
 Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
 </p>
+
+## Flowerly 🌸
+
+<p align="center">
+<img src="flowerly/flowerlycovernew.png" width="900" title="Flowerly">
+</p>
+<p align="center">
+<a href="https://swift.org/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Swift-red.svg?style=for-the-badge&logo=swift&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/Mohanedy98/Flowerly" target="_blank"><img src="https://img.shields.io/badge/Source code%20On-GitHub-blue.svg?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+    </p>
+<br>
+
+Flowerly is an iOS app made using **Swift 5** . uses CoreML to predict flower name and information.
+
+<h4 align="left"> 🚀 Supported Platforms </h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg" width="80" title="iOS">&nbsp;&nbsp;&nbsp;
+   </p>
+
+| 🔨 Technologies Used
+| ------------- |
+| Delegate Design Pattern  |
+| CoreML Framework | 
+| Alamofire to get flower information from [Wikipedia Api](https://www.mediawiki.org/wiki/API:Main_page)|
+| [Chameleon Framework](https://github.com/viccalexander/Chameleon)|
+| [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) to parse the json response from the API|
+
+| 👨‍💻 Development Team| 🔧 Role |
+| :---: |:---: |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 iOS Developer    |
+
+## Tweetect 😄😐😡
+
+<p align="center">
+<img src="tweetect/tweetectcover.png" width="900" title="Tweetect">
+</p>
+<p align="center">
+<a href="https://swift.org/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Swift-red.svg?style=for-the-badge&logo=swift&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/Mohanedy98/Tweetect" target="_blank"><img src="https://img.shields.io/badge/Source code%20On-GitHub-blue.svg?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+    </p>
+<br>
+
+Tweetect is an iOS app made using **Swift 5** .the app uses CoreML and Twitter API to perform sentiment analysis on tweets.
+
+<h4 align="left"> 🚀 Supported Platforms </h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg" width="80" title="iOS">&nbsp;&nbsp;&nbsp;
+   </p>
+
+| 🔨 Technologies Used
+| ------------- |
+| Delegate Design Pattern  |
+| CoreML Framework | 
+| Swifter framework to get tweets from [Twitter API](https://github.com/mattdonnelly/Swifter)|
+| [SDWebImage](https://github.com/SDWebImage/SDWebImage)|
+
+| 👨‍💻 Development Team| 🔧 Role |
+| :---: |:---: |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 iOS Developer    |
