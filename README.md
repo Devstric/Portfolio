@@ -9,7 +9,7 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 -------
 <p align="center">
     <a href="#educate-me-">Educate Me 📚</a> &bull;
-    <a href="#nile-gift">Nile Gift 📜</a> &bull;
+    <a href="#nile-gift-">Nile Gift 📜</a> &bull;
     <a href="#coronaapp-">CoronaApp 😷</a>
   
 </p>
