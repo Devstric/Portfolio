@@ -41,7 +41,16 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 | Data Encryption|
 | Charts|
 
+<p align="center">
+Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
+</p>
 
+| 🔨 Development Team| 🔧 Position |
+| :---: |:---: |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
+| [Abanoub Shawky](https://github.com/Abanoub-Showky)| 📱 Flutter Developer |
+| [Mahmoud Sharaf](https://github.com/MahmoudSharaf55)| 🌐 Web Developer |
+| [Mohamed Sedky](https://github.com/mohammmedsedky)| 📱 Flutter Developer |
 
 ## Nile Gift 📜
 
@@ -62,7 +71,9 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
 | Location Services|
 | Charts|
 
-<p align="center">
-Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="NileGift"></a>
-</p>
+| 🔨 Development Team| 🔧 Position |
+| :---: |:---: |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
+| [Shimaa Ghanima](https://github.com/ShimaaGhanima)| 📱 Flutter Developer |
+| [Abdallha Rezk](https://github.com/AbdallhaRezk)| 📱 Flutter Developer |
 
