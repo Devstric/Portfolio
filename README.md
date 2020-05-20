@@ -171,7 +171,7 @@ Flowerly is an iOS app made using **Swift 5** . uses CoreML to predict flower na
 ## Tweetect 😄😐😡
 
 <p align="center">
-<img src="flowerly/flowerlycovernew.png" width="900" title="Tweetect">
+<img src="tweetect/tweetectcover.png" width="900" title="Tweetect">
 </p>
 <p align="center">
 <a href="https://swift.org/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Swift-red.svg?style=for-the-badge&logo=swift&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
