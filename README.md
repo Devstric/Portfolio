@@ -13,7 +13,7 @@ This is my portfolio for Mobile & Desktop Development experiences
     <a href="#coronaapp-">CoronaApp 😷</a> &bull;
     <a href="#flowerly-">Flowerly 🌸</a> &bull;
     <a href="#tweetect-">Tweetect 😄😐😡</a> &bull;
-    <a href="#mcq-eye-">MCQ-EYE 👁️</a>
+    <a href="#mcq-eye-%EF%B8%8F-">MCQ-EYE 👁️</a>
     
   
 </p>
