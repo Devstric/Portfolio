@@ -96,7 +96,7 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 | [Abdullah Rezk](https://github.com/AbdallhaRezk)| 📱 Flutter Developer |
 
 
-## Multimedia Simulator App 🎧
+## Multimedia Algorithms App 🎧
 
 <p align="center">
 <a href="https://github.com/Mohanedy98/multimedia-algorithms" target="_blank"><img src="multimedia_app/MultimediaCover.png" width="900" title="MultimediaApp"></a>
@@ -106,7 +106,7 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
     </p>
 <br>
 
-[Multimedia Simulator App](https://github.com/Mohanedy98/multimedia-algorithms) is an iOS & Android app made using **Flutter** and **Dart** This app implement some basic multimedia compression algorithms (step by step) also some techniques used in multimedia like quantization using dart and flutter
+[Multimedia Algorithms App](https://github.com/Mohanedy98/multimedia-algorithms) is an iOS & Android app made using **Flutter** and **Dart** This app implement some basic multimedia compression algorithms (step by step) also some techniques used in multimedia like quantization using dart and flutter
 
 <h4 align="left"> 🚀 Supported Platforms </h4>
 <p align="left">
