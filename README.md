@@ -10,10 +10,11 @@ This is my portfolio for Mobile & Desktop Development experiences
 <p align="center">
     <a href="#educate-me-">Educate Me 📚</a> &bull;
     <a href="#nile-gift-">Nile Gift 📜</a> &bull;
+     <a href="#multimedia-compression-algorithms-app-">Multimedia Algorithms App 🎧</a> &bull;
     <a href="#coronaapp-">CoronaApp 😷</a> &bull;
     <a href="#flowerly-">Flowerly 🌸</a> &bull;
     <a href="#tweetect-">Tweetect 😄😐😡</a> &bull;
-    <a href="#mcq-eye-%EF%B8%8F-">MCQ-EYE 👁️</a>
+    <a href="#mcq-eye-">MCQ-EYE 👁️</a> &bull;
     
   
 </p>
@@ -94,6 +95,33 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 | [Shimaa Ghanima](https://github.com/ShimaaGhanima)| 📱 Flutter Developer |
 | [Abdullah Rezk](https://github.com/AbdallhaRezk)| 📱 Flutter Developer |
 
+
+## Multimedia Simulator App 🎧
+
+<p align="center">
+<a href="https://github.com/Mohanedy98/multimedia-algorithms" target="_blank"><img src="multimedia_app/MultimediaCover.png" width="900" title="MultimediaApp"></a>
+</p>
+<p align="center">
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Flutter & Dart-green.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>&nbsp;&nbsp;&nbsp <a href="https://github.com/Mohanedy98/multimedia-algorithms" target="_blank"><img src="https://img.shields.io/badge/Source code%20On-GitHub-blue.svg?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+    </p>
+<br>
+
+[Multimedia Simulator App](https://github.com/Mohanedy98/multimedia-algorithms) is an iOS & Android app made using **Flutter** and **Dart** This app implement some basic multimedia compression algorithms (step by step) also some techniques used in multimedia like quantization using dart and flutter
+
+<h4 align="left"> 🚀 Supported Platforms </h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg" width="80" title="iOS">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="80" title="Android">
+   </p>
+
+| 🔨 Technologies Used
+| ------------- |
+| Bloc Pattern | 
+| Animations|
+| Charts|
+
+| 👨‍💻 Development Team| 🔧 Role |
+| :---: |:---: |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
 
 ## CoronaApp 😷
 
