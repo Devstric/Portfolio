@@ -4,7 +4,7 @@
 
 # Portfolio 📱
 
-This is my portfolio for Mobile Development experiences with both iOS (Swift) & Flutter (Dart)
+This is my portfolio for Mobile & Desktop Development experiences
 
 -------
 <p align="center">
@@ -12,7 +12,8 @@ This is my portfolio for Mobile Development experiences with both iOS (Swift) & 
     <a href="#nile-gift-">Nile Gift 📜</a> &bull;
     <a href="#coronaapp-">CoronaApp 😷</a> &bull;
     <a href="#flowerly-">Flowerly 🌸</a> &bull;
-    <a href="#tweetect-">Tweetect 😄😐😡</a>
+    <a href="#tweetect-">Tweetect 😄😐😡</a> &bull;
+    <a href="#mcq-eye-">MCQ-EYE 👁️</a>
     
   
 </p>
@@ -196,3 +197,44 @@ Tweetect is an iOS app made using **Swift 5** .the app uses CoreML and Twitter A
 | 👨‍💻 Development Team| 🔧 Role |
 | :---: |:---: |
 | [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 iOS Developer    |
+
+## MCQ-EYE 👁️
+
+<p align="center">
+<img src="https://mcqeye.github.io/images/test_imac2015_front.png" width="400" title="MCQ-EYE">
+</p>
+
+<p align="center">
+<a href="https://swift.org/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-JAVA-purple.svg?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+    </p>
+<br>
+
+[MCQ-EYE](https://mcqeye.github.io/) is a Desktop app made using **JAVA** & **JavaFX**.
+* MCQ-EYE is The Solution for Multiple-Choice Questions Grading and Analysis.
+* Can grade and analyze papers in just a seconds.
+* High Performance and Accurate results.
+* Generate reports in just second with different formats.
+* Secure with session tracking and data encryption.
+* Dynamic Questions paper up to 100 Question per paper.
+
+
+
+<h4 align="left"> 🚀 Supported Platforms </h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="80" title="iOS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="80" title="linux"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" width="80" title="MAC OS"> 
+   </p>
+
+| 🔨 Technologies Used
+| ------------- |
+| MVC Pattern  |
+| OpenCV Framework for JAVA | 
+| SQLite Database |
+| Image Processing Algorithms |
+| Multithreading and parallel processing techniques |
+| [JFoenix Library](https://github.com/jfoenixadmin/JFoenix)|
+
+| 👨‍💻 Development Team| 🔧 Role |
+| :---: |:---: |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 🖥️ Java Developer    |
+| [Abanoub Shawky](https://github.com/Abanoub-Showky)| 🖥️ Java Developer |
+| [Mahmoud Sharaf](https://github.com/MahmoudSharaf55)| 🖥️ Java Developer |
