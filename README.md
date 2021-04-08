@@ -7,20 +7,74 @@
 This is my portfolio for Mobile & Desktop Development experiences
 
 -------
-<p align="center">
-    <a href="#educate-me-">Educate Me 📚</a> &bull;
-    <a href="#nile-gift-">Nile Gift 📜</a> &bull;
-     <a href="#multimedia-compression-algorithms-app-">Multimedia Algorithms App 🎧</a> &bull;
-    <a href="#coronaapp-">CoronaApp 😷</a> &bull;
-    <a href="#drively-">Drively 🚗</a> &bull;
-    <a href="#flowerly-">Flowerly 🌸</a> &bull;
-    <a href="#tweetect-">Tweetect 😄😐😡</a> &bull;
-    <a href="#mcq-eye-">MCQ-EYE 👁️</a>
-    
-  
-</p>
+
+Project  |  Developed Using
+:---:|:---:
+<a href="#dpro-pharmacy-archiving">Dpro Pharmacy Archiving</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
+<a href="#educate-me-">Educate Me</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
+<a href="#nile-gift-">Nile Gift</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
+<a href="#multimedia-compression-algorithms-app-">Multimedia Algorithms App</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
+<a href="#coronaapp-">CoronaApp</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
+<a href="#drively-">Drively</a> |  <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">
+  <a href="#flowerly-">Flowerly</a> |  <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">
+<a href="#tweetect-">Tweetect</a>  | <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">
+<a href="#mcq-eye-">MCQ-EYE</a>  |  <img src= "assets/JavaFX_Logo.png" width="70" height = "30" title="JavaFX">
+
 
 -------
+## Dpro Pharmacy Archiving
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.dpro.pharmacy" target="_blank"><img src="dpro_pharmacy/cover.png" width="900" title="Dpro Pharmacy Archiving"></a>
+</p>
+<p align="center">
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Flutter & Dart-green.svg?style=for-the-badge&logo=flutter&logoColor=white"></a></br><a href="https://apps.apple.com/us/app/dpro-pharmacy-archiving/id1559044527" target="_blank"><img src="assets/appstore.svg" width="120" height ="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.dpro.pharmacy" target="_blank"><img src="assets/playstore.svg" width="120" height ="50"></a>
+    </p>
+<br>
+
+[Dpro Pharmacy Archiving](https://apps.apple.com/us/app/dpro-pharmacy-archiving/id1559044527) is an iOS & Android app made using **Flutter** and **Dart**. To keep pace with the development in the field of automation, which is the medical field at its head, and to help pharmacists in managing their work easily and easily and to ensure complete comfort for them in preparing invoices, archiving and preserving information.
+
+This application helps pharmacists to archive scientific office bills and releases information with just one click of a button.
+
+
+Application features:
+
+1- It works to archive data and bills of scientific offices and archives without the need for internet.
+
+2- The speed of storing information while ensuring that the information is not lost in the event of losing the mobile phone.
+
+3- Quick access to the billing record by searching the invoice number or date.
+
+4- Ease of adding information and details of payment status and placing invoices.
+
+5- The ability (archiving) to save a copy of the invoice and the payment receipt and refer to it at any time.
+
+6- Ease of contacting the scientific and archiving office.
+
+
+Other advantages :
+
+1- Archiving invoices in detail and making them easy to access later (bills returned - invoices paid - invoices that have not been paid).
+
+2- Saving data in digital form, which reduces the cost of paper and medical films, in addition to security and the ability to retrieve and save data.
+
+3- The pharmacist can send and share the invoice file to any scientific office or storeroom when needed.
+
+<h4 align="left"> 🚀 Supported Platforms </h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg" width="50" height="50" title="iOS">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="50" height="50" title="Android">&nbsp;&nbsp;&nbsp;
+   </p>
+
+
+| 👨‍💻 Development Team| 🔧 Role |
+| :---: |:---: |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
+| [Mohamed Sedky](https://github.com/mohammmedsedky)| 📱 Flutter Developer |
+
+<p align="center">
+Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
+</p>
+
 ## Educate Me 📚
 
 <p align="center">
@@ -85,7 +139,7 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 
 | 🔨 Technologies Used
 | ------------- |
-| Bloc Pattern | 
+| Bloc Pattern |
 | Animations|
 | Location Services|
 | Charts|
@@ -116,7 +170,7 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 
 | 🔨 Technologies Used
 | ------------- |
-| Bloc Pattern | 
+| Bloc Pattern |
 | Animations|
 | Charts|
 
@@ -143,7 +197,7 @@ CoronaApp is an iOS & Android app made using **Flutter** and **Dart**. CoronaApp
 
 | 🔨 Technologies Used
 | ------------- |
-| Bloc Pattern | 
+| Bloc Pattern |
 | Cloud Firestore|
 | Firebase Storage|
 | Background tasks using [Background Fetch Package](https://pub.dev/packages/background_fetch)|
@@ -189,7 +243,7 @@ Drively is an iOS app made using **Swift 5** . uses Firebase and MapKit to provi
 | 🔨 Technologies Used
 | ------------- |
 | Delegate Design Pattern  |
-| MVC Design Pattern | 
+| MVC Design Pattern |
 | MapKit |
 | Firebase (Firestore, Authentication)|
 | Location Tracking|
@@ -220,7 +274,7 @@ Flowerly is an iOS app made using **Swift 5** . uses CoreML to predict flower na
 | 🔨 Technologies Used
 | ------------- |
 | Delegate Design Pattern  |
-| CoreML Framework | 
+| CoreML Framework |
 | Alamofire to get flower information from [Wikipedia Api](https://www.mediawiki.org/wiki/API:Main_page)|
 | [Chameleon Framework](https://github.com/viccalexander/Chameleon)|
 | [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) to parse the json response from the API|
@@ -250,7 +304,7 @@ Tweetect is an iOS app made using **Swift 5** .the app uses CoreML and Twitter A
 | 🔨 Technologies Used
 | ------------- |
 | Delegate Design Pattern  |
-| CoreML Framework | 
+| CoreML Framework |
 | Swifter framework to get tweets from [Twitter API](https://github.com/mattdonnelly/Swifter)|
 | [SDWebImage](https://github.com/SDWebImage/SDWebImage)|
 
@@ -281,13 +335,13 @@ Tweetect is an iOS app made using **Swift 5** .the app uses CoreML and Twitter A
 
 <h4 align="left"> 🚀 Supported Platforms </h4>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="80" title="iOS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="80" title="linux"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" width="80" title="MAC OS"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="80" title="iOS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="80" title="linux"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" width="80" title="MAC OS">
    </p>
 
 | 🔨 Technologies Used
 | ------------- |
 | MVC Pattern  |
-| OpenCV Framework for JAVA | 
+| OpenCV Framework for JAVA |
 | SQLite Database |
 | Image Processing Algorithms |
 | Multithreading and parallel processing techniques |
