@@ -1,4 +1,4 @@
-<a href="https://play.google.com/store/apps/dev?id=9220162537970803430" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-HyperDev-darkred.svg?style=for-the-badge&logo=google&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/mohanedy98" target="_blank"><img src="https://img.shields.io/badge/twitter-@mohanedy98-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/dev?id=9220162537970803430" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-Devstric-darkred.svg?style=for-the-badge&logo=google&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/mohanedy98" target="_blank"><img src="https://img.shields.io/badge/twitter-@mohanedy98-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/mohanedy98/" target="_blank"><img src="https://img.shields.io/badge/facebook-Mohanedy98-darkblue.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <br>
 
@@ -10,6 +10,7 @@ This is my portfolio for Mobile & Desktop Development experiences
 
 Project  |  Developed Using
 :---:|:---:
+<a href="#jam3ty">Jam3ty</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">  |  
 <a href="#dpro-pharmacy-archiving">Dpro Pharmacy Archiving</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
 <a href="#educate-me-">Educate Me</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
 <a href="#nile-gift-">Nile Gift</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
@@ -22,6 +23,35 @@ Project  |  Developed Using
 
 
 -------
+## Jam3ty
+
+<p align="center">
+<a href="https://apps.apple.com/eg/app/jam3ty-%D8%AC%D8%A7%D9%85%D8%B9%D8%AA%D9%8A/id1536444786" target="_blank"><img src="jam3ty/app_cover.png" width="900" title="Dpro Pharmacy Archiving"></a>
+</p>
+<p align="center">
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Developed%20Using-Flutter & Dart-green.svg?style=for-the-badge&logo=flutter&logoColor=white"></a></br><a href="https://apps.apple.com/us/app/jam3ty-%D8%AC%D8%A7%D9%85%D8%B9%D8%AA%D9%8A/id1536444786" target="_blank"><img src="assets/appstore.svg" width="120" height ="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.hyperdev.jam3ty.jam3ty" target="_blank"><img src="assets/playstore.svg" width="120" height ="50"></a>
+    </p>
+<br>
+
+[Jam3ty](https://apps.apple.com/us/app/jam3ty-%D8%AC%D8%A7%D9%85%D8%B9%D8%AA%D9%8A/id1536444786) is your easy way to understand and succeed, as the application provides a wide range of courses and explanations to various universities and colleges through a group of the most experienced university professors and lecturers. The application also provides services that will help you solve and understand your assignments to facilitate your educational life and to make the most of what you will learn!.
+
+<h4 align="left"> 🚀 Supported Platforms </h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_iOS_new.svg" width="50" height="50" title="iOS">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="50" height="50" title="Android">&nbsp;&nbsp;&nbsp;
+   </p>
+
+
+| 👨‍💻 Development Team| 🔧 Role |
+| :---: |:---: |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
+| [Abanoub Shawky](https://github.com/Abanoub-Showky)| 📱 Flutter Developer |
+| [Ahmed Farag](https://github.com/ahmedfarag1993)|☁️ Nodejs Developer |
+| [Mohamed Mostafa](-)|🌍 Front End Web Developer |
+
+<p align="center">
+Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
+</p>
+
 ## Dpro Pharmacy Archiving
 
 <p align="center">
@@ -352,3 +382,5 @@ Tweetect is an iOS app made using **Swift 5** .the app uses CoreML and Twitter A
 | [Mohaned Yossry](https://github.com/Mohanedy98) | 🖥️ Java Developer    |
 | [Abanoub Shawky](https://github.com/Abanoub-Showky)| 🖥️ Java Developer |
 | [Mahmoud Sharaf](https://github.com/MahmoudSharaf55)| 🖥️ Java Developer |
+
+[swift-icon]: http://example.com/whatever
