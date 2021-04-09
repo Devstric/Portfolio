@@ -1,5 +1,5 @@
-<a href="https://play.google.com/store/apps/dev?id=9220162537970803430" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-Devstric-darkred.svg?style=for-the-badge&logo=google&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/mohanedy98" target="_blank"><img src="https://img.shields.io/badge/twitter-@mohanedy98-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/mohanedy98/" target="_blank"><img src="https://img.shields.io/badge/facebook-Mohanedy98-darkblue.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/dev?id=9220162537970803430" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-Devstric-darkred.svg?style=for-the-badge&logo=google&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/devstric" target="_blank"><img src="https://img.shields.io/badge/twitter-@devstric-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/devstric/" target="_blank"><img src="https://img.shields.io/badge/facebook-devstric-darkblue.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <br>
 
 # Portfolio 📱
@@ -10,6 +10,7 @@ This is my portfolio for Mobile & Desktop Development experiences
 
 |Project  |  Developed Using| is Open Source|
 |:---:|:---:|:---:|
+|  <a href="#fallujah-market">Fallujah Market</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter"> |  𐄂
 <a href="#jam3ty">Jam3ty</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">  |  𐄂
 <a href="#dpro-pharmacy-archiving">Dpro Pharmacy Archiving</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter"> |  𐄂
 <a href="#educate-me-">Educate Me</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter"> |  𐄂
