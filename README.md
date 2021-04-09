@@ -8,18 +8,18 @@ This is my portfolio for Mobile & Desktop Development experiences
 
 -------
 
-Project  |  Developed Using
-:---:|:---:
-<a href="#jam3ty">Jam3ty</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">  |  
-<a href="#dpro-pharmacy-archiving">Dpro Pharmacy Archiving</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
-<a href="#educate-me-">Educate Me</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
-<a href="#nile-gift-">Nile Gift</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
-<a href="#multimedia-compression-algorithms-app-">Multimedia Algorithms App</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
-<a href="#coronaapp-">CoronaApp</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">
-<a href="#drively-">Drively</a> |  <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">
-  <a href="#flowerly-">Flowerly</a> |  <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">
-<a href="#tweetect-">Tweetect</a>  | <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">
-<a href="#mcq-eye-">MCQ-EYE</a>  |  <img src= "assets/JavaFX_Logo.png" width="70" height = "30" title="JavaFX">
+|Project  |  Developed Using| is Open Source|
+|:---:|:---:|:---:|
+<a href="#jam3ty">Jam3ty</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">  |  𐄂
+<a href="#dpro-pharmacy-archiving">Dpro Pharmacy Archiving</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter"> |  𐄂
+<a href="#educate-me-">Educate Me</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter"> |  𐄂
+<a href="#nile-gift-">Nile Gift</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">|  ✅
+<a href="#multimedia-compression-algorithms-app-">Multimedia Algorithms App</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">|  ✅
+<a href="#coronaapp-">CoronaApp</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter"> |  𐄂
+<a href="#drively-">Drively</a> |  <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">|  ✅
+  <a href="#flowerly-">Flowerly</a> |  <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">|  ✅
+<a href="#tweetect-">Tweetect</a>  | <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">|  ✅
+<a href="#mcq-eye-">MCQ-EYE</a>  |  <img src= "assets/JavaFX_Logo.png" width="70" height = "30" title="JavaFX">|  𐄂
 
 
 -------
