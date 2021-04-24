@@ -1,6 +1,12 @@
+
+<p align="center">
+<img align="center" src="assets/cover.jpg" />
+</p>
+<p align="center">
 <a href="https://play.google.com/store/apps/dev?id=9220162537970803430" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-Devstric-darkred.svg?style=for-the-badge&logo=google&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/devstric" target="_blank"><img src="https://img.shields.io/badge/twitter-@devstric-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/devstric/" target="_blank"><img src="https://img.shields.io/badge/facebook-devstric-darkblue.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <br>
+</p>
 
 # Portfolio 📱
 
@@ -16,11 +22,7 @@ This is my portfolio for Mobile & Desktop Development experiences
 <a href="#dpro-pharmacy-archiving">Dpro Pharmacy Archiving</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter"> |  𐄂
 <a href="#educate-me-">Educate Me</a> |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter"> |  𐄂
 <a href="#nile-gift-">Nile Gift</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">|  ✅
-<a href="#multimedia-compression-algorithms-app-">Multimedia Algorithms App</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter">|  ✅
 <a href="#coronaapp-">CoronaApp</a>  |  <img src= "assets/flutter.svg" width="30" height = "30" title="Flutter"> |  𐄂
-<a href="#drively-">Drively</a> |  <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">|  ✅
-  <a href="#flowerly-">Flowerly</a> |  <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">|  ✅
-<a href="#tweetect-">Tweetect</a>  | <img src= "assets/iconfinder_swift-seeklogo_1010066.png" width="30" height = "30" title="Swift">|  ✅
 <a href="#mcq-eye-">MCQ-EYE</a>  |  <img src= "assets/JavaFX_Logo.png" width="70" height = "30" title="JavaFX">|  𐄂
 
 
@@ -89,9 +91,7 @@ What’s even more amazing about Thawany TAG is that you can also connect any of
 | [Ahmed Farag](https://github.com/ahmedfarag1993)|☁️ Nodejs Developer |
 | [Mohamed Mostafa](-)|🌍 Front End Web Developer |
 
-<p align="center">
-Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
-</p>
+
 
 ## Dpro Pharmacy Archiving
 
@@ -142,9 +142,7 @@ Other advantages :
 | [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
 | [Mohamed Sedky](https://github.com/mohammmedsedky)| 📱 Flutter Developer |
 
-<p align="center">
-Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
-</p>
+
 
 ## Educate Me 📚
 
@@ -186,9 +184,7 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 | [Mohamed Sedky](https://github.com/mohammmedsedky)| 📱 Flutter Developer |
 | Mostafa Khedr | 🌐 Web Developer |
 
-<p align="center">
-Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
-</p>
+
 
 
 ## Nile Gift 📜
@@ -222,7 +218,7 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 | [Abdullah Rezk](https://github.com/AbdallhaRezk)| 📱 Flutter Developer |
 
 
-## Multimedia Algorithms App 🎧
+<!-- ## Multimedia Algorithms App 🎧
 
 <p align="center">
 <a href="https://github.com/Mohanedy98/multimedia-algorithms" target="_blank"><img src="multimedia_app/MultimediaCover.png" width="900" title="MultimediaApp"></a>
@@ -247,7 +243,7 @@ Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="te
 
 | 👨‍💻 Development Team| 🔧 Role |
 | :---: |:---: |
-| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    | -->
 
 ## CoronaApp 😷
 
@@ -289,11 +285,9 @@ CoronaApp is an iOS & Android app made using **Flutter** and **Dart**. CoronaApp
 | [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 Flutter Developer    |
 | [Abanoub Shawky](https://github.com/Abanoub-Showky)| 📱 Flutter Developer |
 
-<p align="center">
-Developed by <a href="https://hyper-dev.github.io/" target="_blank"><img src="team/hyperdevgray.jpg" width="100" title="HyperDev"></a> Team
-</p>
 
-## Drively 🚗
+
+<!-- ## Drively 🚗
 
 <p align="center">
 <img src="https://imgur.com/VNvfLPz.png" width="900" title="Drively">
@@ -321,10 +315,10 @@ Drively is an iOS app made using **Swift 5** . uses Firebase and MapKit to provi
 
 | 👨‍💻 Development Team| 🔧 Role |
 | :---: |:---: |
-| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 iOS Developer    |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 iOS Developer    | -->
 
 
-## Flowerly 🌸
+<!-- ## Flowerly 🌸
 
 <p align="center">
 <img src="flowerly/flowerlycovernew.png" width="900" title="Flowerly">
@@ -352,9 +346,9 @@ Flowerly is an iOS app made using **Swift 5** . uses CoreML to predict flower na
 
 | 👨‍💻 Development Team| 🔧 Role |
 | :---: |:---: |
-| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 iOS Developer    |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 iOS Developer    | -->
 
-## Tweetect 😄😐😡
+<!-- ## Tweetect 😄😐😡
 
 <p align="center">
 <img src="tweetect/tweetectcover.png" width="900" title="Tweetect">
@@ -381,7 +375,7 @@ Tweetect is an iOS app made using **Swift 5** .the app uses CoreML and Twitter A
 
 | 👨‍💻 Development Team| 🔧 Role |
 | :---: |:---: |
-| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 iOS Developer    |
+| [Mohaned Yossry](https://github.com/Mohanedy98) | 📱 iOS Developer    | -->
 
 ## MCQ-EYE 👁️
 
