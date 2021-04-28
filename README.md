@@ -10,7 +10,7 @@
 
 # Portfolio 📱
 
-This is my portfolio for Mobile & Desktop Development experiences
+This is our portfolio for Mobile , Desktop & Web Development experiences
 
 -------
 
